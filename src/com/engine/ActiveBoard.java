@@ -98,7 +98,8 @@ public class ActiveBoard
     	 7,  8,  8,  9,  9, 10, 10, 11, 11, 12, 12, 13, 13, 13, 13, 13
     };
     
-    public final static char[] PIECE_CHAR = {
+    public final static char[] PIECE_CHAR = 
+    {
     	'0','0','0','0','0','0','0','0','0','0','0','0','0','0','0','0',
     	'K','A','A','B','B','N','N','R','R','C','C','P','P','P','P','P',
     	'k','a','a','b','b','n','n','r','r','c','c','p','p','p','p','p'
