@@ -91,7 +91,8 @@ public class ActiveBoard
     public int moveNum;//移动了多少步
     public MoveNode[] moveList;//移动的招数列表
     
-    public final static int[] PIECE_TYPE = {
+    public final static int[] PIECE_TYPE = 
+    {
     	-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1,
     	 0,  1,  1,  2,  2,  3,  3,  4,  4,  5,  5,  6,  6,  6,  6,  6,
     	 7,  8,  8,  9,  9, 10, 10, 11, 11, 12, 12, 13, 13, 13, 13, 13
